@@ -11,7 +11,7 @@ class App extends React.Component {
 				<Hello 
 				to="Ringo"
 				from="Paul"
-				bangs={3}/>
+				bangs={5}/>
 			</div>
 		)
 	}
